@@ -37,5 +37,9 @@ CODTECH_Internship/
 - Word documents (.docx) for remaining task  
 - PDF versions (.pdf) for easy reference
 
+## Notes
+All tasks are completed according to internship guidelines. Each folder contains **all files required for that task**, including Word documents, PDFs, and any supplementary content.
+
+
 
 
